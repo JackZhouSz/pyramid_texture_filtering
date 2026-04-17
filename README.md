@@ -1,14 +1,14 @@
 # Pyramid Texture Filtering
 
-This MATLAB code is the implementation of [SIGGRAPH 2023](https://s2023.siggraph.org/) paper "Pyramid Texture Filtering".
+⭐ This MATLAB code is the implementation of [SIGGRAPH 2023](https://s2023.siggraph.org/) paper "Pyramid Texture Filtering".
 
 ### [[Paper]](https://arxiv.org/abs/2305.06525)  [[Project]](https://rewindl.github.io/pyramid_texture_filtering/) 
 
-## Overview
-![Overview](./docs/figures/pipeline.png)
-
 ## Teaser
 ![Teaser](./docs/figures/teaser.png)
+
+## Overview
+![Overview](./docs/figures/pipeline.png)
 
 ## Usage:
   - Put test images into the `input` folder and set `img_name` , `sigma_s` and `sigma_r` in `demo.m`.
