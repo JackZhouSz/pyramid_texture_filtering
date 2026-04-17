@@ -20,7 +20,10 @@ This MATLAB code is the implementation of [SIGGRAPH 2023](https://s2023.siggraph
     year    = {2023},
     volume  = {42},
     number  = {4},
-    pages   = {1-11}
+    pages   = {1-11},
+    issn = {0730-0301},
+    url = {https://doi.org/10.1145/3592120},
+    doi = {10.1145/3592120},
 }
 ```
 
